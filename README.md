@@ -8,4 +8,4 @@ https://rubenhx.github.io/av-segmentation/
 
 ## DRIVE
 
-<iframe frameborder="0" class="juxtapose" width="100%" height="100%" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=b890bde6-8e71-11e8-b263-0edaf8f81e27"></iframe>
+<iframe frameborder="0" class="juxtapose" width="100%" height="584" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=16819a9c-8e72-11e8-b263-0edaf8f81e27"></iframe>
