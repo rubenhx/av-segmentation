@@ -7,6 +7,18 @@ This repo contains (1) vizualizations of predictions and ground truth on two pub
 You can download the HRF ground truth and DRIVE evaluation masks at:
 http://iflexis.com/DRIVEandHRF
 
+Please cite as:
+
+```
+@inproceedings{hemelings2019avs,
+  title={Artery-Vein Segmentation in Fundus Images using a Fully Convolutional Network},
+  author={Hemelings, Ruben and Elen, Bart and Stalmans, Ingeborg and Van Keer, Karel and De Boever, Patrick and Blaschko, Matthew B},
+  booktitle={Computerized Medical Imaging and Graphics},
+  year={2019},
+  doi={https://doi.org/10.1016/j.compmedimag.2019.05.004}
+}
+```
+
 <p align="center">
-  <img src="/av-segmentation.png" width="350" title="hover text">
+  <img src="/av-segmentation.png" width="1000" title="hover text">
 </p>
