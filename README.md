@@ -7,5 +7,6 @@ This repo contains (1) vizualizations of predictions and ground truth on two pub
 You can download the HRF ground truth and DRIVE evaluation masks at:
 http://iflexis.com/DRIVEandHRF
 
-## HRF
-<iframe frameborder="0" class="juxtapose" width="100%" height="700" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=ac61e824-9109-11e9-b9b8-0edaf8f81e27"></iframe>  
+<p align="center">
+  <img src="/av-segmentation.png" width="350" title="hover text">
+</p>
