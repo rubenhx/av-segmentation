@@ -10,7 +10,7 @@ http://iflexis.com/DRIVEandHRF
 Please cite as:
 
 ```
-@inproceedings{hemelings2019avs,
+@article{hemelings2019avs,
   title={Artery-Vein Segmentation in Fundus Images using a Fully Convolutional Network},
   author={Hemelings, Ruben and Elen, Bart and Stalmans, Ingeborg and Van Keer, Karel and De Boever, Patrick and Blaschko, Matthew B},
   booktitle={Computerized Medical Imaging and Graphics},
