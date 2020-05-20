@@ -7,6 +7,10 @@ This repo contains (1) vizualizations of predictions and ground truth on two pub
 You can download the HRF ground truth and DRIVE evaluation masks at:
 http://iflexis.com/DRIVEandHRF
 
+**Update 20/05/2020**
+The HRF ground truth are directly available from http://iflexis.com/downloads/HRF_AV_GT.zip
+The DRIVE evaluation masks at http://iflexis.com/downloads/DRIVE_AV_evalmasks.zip
+
 Please cite as:
 
 ```
