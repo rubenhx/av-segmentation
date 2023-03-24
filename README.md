@@ -8,8 +8,8 @@ This repo contains (1) vizualizations of predictions and ground truth on two pub
 
 You can download the HRF ground truth and DRIVE evaluation masks at: <br>
 
-The HRF ground truth are directly available from [HRF link] (https://www.dropbox.com/sh/1s8vlzd35ycx5dw/AAB9RDqOLX6VUnr4Vu8hgcsra?dl=0) <br>
-The DRIVE evaluation masks at [DRIVE link] (https://www.dropbox.com/sh/i8be3i1o6bqferl/AABYlYjAMTWy3cU2e3dYUzN3a?dl=0) <br>
+The HRF ground truth are directly available from [HRF link](https://www.dropbox.com/sh/1s8vlzd35ycx5dw/AAB9RDqOLX6VUnr4Vu8hgcsra?dl=0) <br>
+The DRIVE evaluation masks at [DRIVE link](https://www.dropbox.com/sh/i8be3i1o6bqferl/AABYlYjAMTWy3cU2e3dYUzN3a?dl=0) <br>
 
 Please cite as:
 
