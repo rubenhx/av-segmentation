@@ -4,9 +4,10 @@
 
 This repo contains (1) vizualizations of predictions and ground truth on two public data sets; (2) the evaluation code to facilitate reproducibility; (3) links to the novel AV ground truth for the public HRF image database.
 
-You can download the HRF ground truth and DRIVE evaluation masks at:
+You can download the HRF ground truth and DRIVE evaluation masks at: <br>
+
 The HRF ground truth are directly available from https://www.dropbox.com/sh/1s8vlzd35ycx5dw/AAB9RDqOLX6VUnr4Vu8hgcsra?dl=0 <br>
-The DRIVE evaluation masks at http://iflexis.com/downloads/DRIVE_AV_evalmasks.zip <br>
+The DRIVE evaluation masks at https://www.dropbox.com/sh/i8be3i1o6bqferl/AABYlYjAMTWy3cU2e3dYUzN3a?dl=0 <br>
 
 Please cite as:
 
